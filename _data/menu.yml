@@ -4,19 +4,19 @@
   items:
     - title: Schedule
       url : /schedule/
-    - title: Keynotes
-      url : /
-    - title: Training
-      url : /
-    - title: Call for Speakers/Trainers
+    #- title: Keynotes
+      #url : /
+    #- title: Training
+      #url : /
+    - title: Call To Battle Gaming Submission
       url : /
 - title: ABOUT
   items:
-    - title: Sponsors & Exhibitors
+    - title: Sponsorship Opportunities
       url  : /sponsors/
-    - title: Volunteer
+    #- title: Volunteer
       url  : /
-    - title: Venue, Travel, & Lodging
-      url  : /
-    - title: Progam Team
-      url  : /
+    - title: Event Details
+      url  : /venue/about/
+    #- title: Progam Team
+      #url  : /
