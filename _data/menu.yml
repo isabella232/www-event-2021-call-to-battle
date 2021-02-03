@@ -6,17 +6,17 @@
       url : /schedule/
     #- title: Keynotes
       #url : /
-- title: SUBMIT NOW
-  url : https://owasp.submittable.com/submit/183934/2021-call-to-battle-submission
-    #- title: Call To Battle Gaming Submission
-    #  url : /
-- title: ABOUT
+- title: SPONSOR
   items:
     - title: Sponsorship Opportunities
       url  : /sponsors/
     #- title: Volunteer
     #  url  : /
-    - title: Event Details
+ - title: SUBMIT NOW
+  url : https://owasp.submittable.com/submit/183934/2021-call-to-battle-submission
+    #- title: Call To Battle Gaming Submission
+    #  url : /
+    #- title: Event Details
       url  : /venue/about/
     #- title: Progam Team
       #url  : /
