@@ -1,6 +1,4 @@
-- title: Battle Pricing
-  price: $110
-   - title: Battle Non-Member
+- title: Battle Non-Member
   price: $110
   items: 
    - title: Battle Member
