@@ -1,6 +1,11 @@
-- title: Battle Ticket 
+- title: Battle Pricing
   price: $110
-  member price: $95
+   - title: Battle Non-Member
+  price: $110
+  items: 
+   - title: Battle Member
+     price: $95
+     info: "* For member discount code contact events@owasp.com"   
   #info: '*See pricing*'
   #items: 
     #- title: Early Bird
