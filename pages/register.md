@@ -12,7 +12,7 @@ Welcome to Call to Battle presented by the OWASP Foundation. Please note that th
 
 {% else %}
 <br>
-### Registration is closed.
+### Registration will be open soon!
 <br>
 {% endif %}
 
