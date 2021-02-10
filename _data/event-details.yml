@@ -9,7 +9,7 @@ location: Virtual Gaming Challenge Event
 background: CTB2.png
 color: 7F00FF
 analytics: 
-registration_open: false
+registration_open: true
 pitch: "Calling all hackers, gaming-nerds, social-bandwagoners, and connectors of fun we have an offering just for you. Submission is NOW OPEN for the first-ever OWASP Call To Battle gaming events. 
 
 <br><br>We’re calling on our OWASP community to submit ideas for this anything-goes gaming event format, that is all about sharing what you find thrilling and turning it into a battle royale for others to join. 
