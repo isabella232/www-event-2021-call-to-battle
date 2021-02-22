@@ -18,7 +18,7 @@ permalink: /sponsors/
  * Option to provide a prize(s) and receive recognition for your contribution
  
 * **Package Costs:
- * "$500/USD"
+ *$500/USD
  *Sponsor all 4 and receive a 10% discount*
 
 
