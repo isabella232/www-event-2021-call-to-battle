@@ -1,21 +1,19 @@
 title: Call To Battle 2021
-dates: "Next Event: <br> February 26, 2021"
+dates: "Next Event: <br> April 9, 2021"
 #training: Augembuary 99-100
 #conference: Augembuary 101
-registration_url: https://www.eventbrite.com/e/owasps-call-to-battle-top-secure-coder-tickets-140003583487=Websitelink
+#registration_url: https://www.eventbrite.com/e/owasps-call-to-battle-top-secure-coder-tickets-140003583487=Websitelink
 logo_url: https://owasp.org/
 venue: Virtual Gaming Challenge Event
 location: Virtual Gaming Challenge Event
 background: CTB2.png
 color: 7F00FF
 analytics: 
-registration_open: true
-pitch: "Calling all hackers, gaming-nerds, social-bandwagoners, and connectors of fun we have an offering just for you. Submission is NOW OPEN for the first-ever OWASP Call To Battle gaming events. 
-
-<br><br>We’re calling on our OWASP community to submit ideas for this anything-goes gaming event format, that is all about sharing what you find thrilling and turning it into a battle royale for others to join. 
+#registration_open: true
+pitch: "Calling all hackers, gaming-nerds, social-bandwagoners, and connectors of fun we have an offering just for you. 
 
 <br><br>Call To Battle events are a gateway to connecting with others around the world to play DD, fight for a top spot in Capture the Flag, take-on Bug Bounties, build virtual worlds, and more. 
 
-<br><br>For selected submissions, organizers will self-manage and create access for the community to join in the challenge, game, or social activity they have developed. Submit today."
+<br><br>Organizers will self-manage and create access for the community to join in the challenge, game, or social activity they have developed."
 
 image_attribution: "<span>Photo by <a href='https://unsplash.com/@thisisengineering?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>ThisisEngineering RAEng</a> on <a href='https://unsplash.com/s/photos/technology-battle?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a></span>"
