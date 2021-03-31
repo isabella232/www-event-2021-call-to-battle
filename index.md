@@ -14,7 +14,7 @@ layout: event
 
 <div style="float:left;">
 
-<img src="/assets/images/juiceshop.png" width="360px" alt="Juice Shop"> <i>After tragedy strikes at the OWASP Juice Shop, a crack team of investigators are deployed to unravel the mystery. Work through the Juice Shop challenges while solving the puzzle of what happened with your team in the interactive map. Clues will appear and areas unlock as you crack more of the challenges, letting you solve more of the story in this time-limited virtual escape room. Pre-requisites: None</i>
+<img src="/assets/images/juiceshop.png" width="360px" alt="Juice Shop" style="float:left;"> <i>After tragedy strikes at the OWASP Juice Shop, a crack team of investigators are deployed to unravel the mystery. Work through the Juice Shop challenges while solving the puzzle of what happened with your team in the interactive map. Clues will appear and areas unlock as you crack more of the challenges, letting you solve more of the story in this time-limited virtual escape room. Pre-requisites: None</i>
 
 </div>
 
