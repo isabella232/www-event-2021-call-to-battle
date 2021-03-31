@@ -10,7 +10,7 @@ background: ctbwebsiteheader.png
 color: 24725b
 analytics: 
 #registration_open: true
-pitch: **Join us on April 9 for our next Call to Battle to see if you can ESCAPE!** 
+pitch: "**Join us on April 9 for our next Call to Battle to see if you can ESCAPE!** 
 *After tragedy strikes at the OWASP Juice Shop, a crack team of investigators are deployed to unravel the mystery. Work through the Juice Shop challenges while solving the puzzle of what happened with your team in the interactive map. Clues will appear and areas unlock as you crack more of the challenges, letting you solve more of the story in this time-limited virtual escape room. Pre-requisites: None*
 
 **[CLICK HERE](https://calltobattle.owasp.org/schedule/) to learn more or [HERE](https://www.eventbrite.com/e/owasps-call-to-battle-juice-shop-virtual-escape-room-tickets-146508124745) to register.**
@@ -19,7 +19,7 @@ pitch: **Join us on April 9 for our next Call to Battle to see if you can ESCAPE
 
 #Call To Battle events are a gateway to connecting with others around the world to play DD, fight for a top spot in Capture the Flag, take-on Bug Bounties, build virtual worlds, and more. 
 
-#Organizers will self-manage and create access for the community to join in the challenge, game, or social activity they have developed.
+#Organizers will self-manage and create access for the community to join in the challenge, game, or social activity they have developed."
 
 image_attribution: "<span>Photo by <a href='https://unsplash.com/@thisisengineering?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>ThisisEngineering RAEng</a> on <a href='https://unsplash.com/s/photos/technology-battle?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a></span>"
 
