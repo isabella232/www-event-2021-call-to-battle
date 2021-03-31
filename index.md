@@ -20,5 +20,5 @@ layout: event
 
 **[CLICK HERE](https://calltobattle.owasp.org/schedule/) to LEARN MORE or [HERE](https://www.eventbrite.com/e/owasps-call-to-battle-juice-shop-virtual-escape-room-tickets-146508124745) to REGISTER.**
 
-
+<p>
 
